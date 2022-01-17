@@ -1,0 +1,72 @@
+[21-Sep-2020 10:38:46 America/New_York] PHP Catchable fatal error:  Argument 1 passed to VeiculoCotacao::setValor() must be an instance of string, string given in /home/tottalbahia/public_html/php/class/veiculoCotacao.php on line 34
+[21-Sep-2020 10:41:02 America/New_York] PHP Catchable fatal error:  Argument 1 passed to VeiculoCotacao::setValor() must be an instance of string, string given in /home/tottalbahia/public_html/php/class/veiculoCotacao.php on line 34
+[21-Sep-2020 10:42:38 America/New_York] PHP Catchable fatal error:  Argument 1 passed to PersonCotation::setName() must be an instance of string, string given in /home/tottalbahia/public_html/php/class/personCotation.php on line 28
+[21-Sep-2020 10:47:33 America/New_York] PHP Catchable fatal error:  Argument 1 passed to VeiculoCotacao::setValor() must be an instance of string, string given in /home/tottalbahia/public_html/php/class/veiculoCotacao.php on line 34
+[29-Oct-2020 09:00:51 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:00:51 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:00:58 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:00:58 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:00:59 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:00:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:40 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:41 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:42 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:01:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:02:08 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:02:08 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:02:59 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:02:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:19 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:19 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:36 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:59 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:03:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:04:19 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:04:19 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:05:42 America/New_York] PHP Warning:  require_once(php/class/beneficiosAdicionais.php): failed to open stream: No such file or directory in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[29-Oct-2020 09:05:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'php/class/beneficiosAdicionais.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 9
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined index: veiculo in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 102
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: nameId in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 198
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 200
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'modelo' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 200
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 200
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'valorCotacaoFipe' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 200
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 201
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'codigoFipe' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 201
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 201
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'mesReferencia' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 201
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 207
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'tipoVeiculo' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 207
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 208
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Trying to get property 'nacional' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 208
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: valorAdsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 223
+[02-Nov-2020 17:01:20 America/New_York] PHP Notice:  Undefined variable: valorAdsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 226
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined index: veiculo in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 103
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: nameId in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 347
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 349
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'modelo' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 349
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 349
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'valorCotacaoFipe' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 349
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 350
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'codigoFipe' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 350
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 350
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'mesReferencia' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 350
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 378
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 379
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsaoMaster in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 382
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsaoMaster in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 383
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 398
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'tipoVeiculo' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 398
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: car in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 399
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Trying to get property 'nacional' of non-object in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 399
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 414
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: valorAdsaoMaster in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 415
+[13-Nov-2020 14:32:36 America/New_York] PHP Notice:  Undefined variable: adsao in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 423
+[25-Jan-2021 19:17:25 America/New_York] PHP Notice:  Undefined variable: total in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 579
+[25-Jan-2021 19:17:55 America/New_York] PHP Notice:  Undefined variable: total in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 579
+[25-Jan-2021 19:36:03 America/New_York] PHP Notice:  Undefined variable: total in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 579
+[25-Jan-2021 19:38:36 America/New_York] PHP Notice:  Undefined variable: total in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 579
+[25-Jan-2021 19:42:43 America/New_York] PHP Notice:  Undefined variable: total in /home/tottalbahia/public_html/resultCalculatorCotation.php on line 579

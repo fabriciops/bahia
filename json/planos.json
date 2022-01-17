@@ -1,0 +1,15 @@
+{
+    "benefícios":[
+        {
+            "nome": ""
+        }
+    ],
+    "planos": [
+        {
+            "plano": "master",
+            "benefíciosInclusos":[
+                ""
+            ]
+        }
+    ]
+}
